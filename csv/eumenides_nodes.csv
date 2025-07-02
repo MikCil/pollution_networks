@@ -1,0 +1,8 @@
+Id,Label,Gender,person-group,number-of-words,eigencentrality,PollutionStatus
+pythias,Πυθιάς,FEMALE,false,362,0.874999,"<[1.0,400.0,minorly_polluted];[401.0,1700.0,not_polluted]>"
+apollon,Ἀπόλλων,MALE,false,820,1,"<[1.0,1700.0,not_polluted]>"
+orestes,Ὀρέστης,MALE,false,596,1,"<[1.0,1200.0,majorly_polluted];[1201.0,1500.0,minorly_polluted];[1501.0,1700.0,not_polluted]>"
+klytaimestras_eidolon,Κλυταιμήστρας Εἴδωλον,FEMALE,false,222,0.874999,"<[1.0,1700.0,majorly_polluted]>"
+choros,Χορός Εὐμενίδων,FEMALE,false,1917,1,"<[1.0,1500.0,majorly_polluted];[1501.0,1700.0,minorly_polluted]>"
+athena,Ἀθηνᾶ,FEMALE,false,1349,0.677534,"<[1.0,1700.0,not_polluted]>"
+propompoi,Προπομποί,UNKNOWN,false,64,0,"<[1.0,400.0,minorly_polluted];[401.0,1700.0,not_polluted]>"

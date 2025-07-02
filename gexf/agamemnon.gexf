@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2025-07-02">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description>Aeschylus: Agamemnon</description>
+  </meta>
+  <graph defaultedgetype="undirected" timeformat="double" timerepresentation="interval" timezone="UTC" mode="dynamic">
+    <attributes class="node" mode="static">
+      <attribute id="gender" title="Gender" type="string"/>
+      <attribute id="person-group" title="Person group" type="boolean"/>
+      <attribute id="number-of-words" title="Number of spoken words" type="integer"/>
+      <attribute id="eigencentrality" title="Eigenvector Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <attributes class="node" mode="dynamic">
+      <attribute

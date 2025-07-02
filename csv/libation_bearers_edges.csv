@@ -1,0 +1,36 @@
+Source,Target,Type,Id,Label,Weight,EdgeKind,Interval
+orestes,elektra,Undirected,orestes|elektra,,3,cooccurrence,
+orestes,choros,Undirected,orestes|choros,,6,cooccurrence,
+orestes,oiketes,Undirected,orestes|oiketes,,2,cooccurrence,
+orestes,klytaimestra,Undirected,orestes|klytaimestra,,2,cooccurrence,
+orestes,trophos,Undirected,orestes|trophos,,1,cooccurrence,
+orestes,aigisthos,Undirected,orestes|aigisthos,,1,cooccurrence,
+orestes,pylades,Undirected,orestes|pylades,,1,cooccurrence,
+choros,elektra,Undirected,choros|elektra,,3,cooccurrence,
+choros,oiketes,Undirected,choros|oiketes,,2,cooccurrence,
+choros,klytaimestra,Undirected,choros|klytaimestra,,2,cooccurrence,
+choros,trophos,Undirected,choros|trophos,,1,cooccurrence,
+choros,aigisthos,Undirected,choros|aigisthos,,1,cooccurrence,
+choros,pylades,Undirected,choros|pylades,,1,cooccurrence,
+oiketes,klytaimestra,Undirected,oiketes|klytaimestra,,2,cooccurrence,
+oiketes,trophos,Undirected,oiketes|trophos,,1,cooccurrence,
+oiketes,aigisthos,Undirected,oiketes|aigisthos,,1,cooccurrence,
+oiketes,pylades,Undirected,oiketes|pylades,,1,cooccurrence,
+klytaimestra,trophos,Undirected,klytaimestra|trophos,,1,cooccurrence,
+klytaimestra,aigisthos,Undirected,klytaimestra|aigisthos,,1,cooccurrence,
+klytaimestra,pylades,Undirected,klytaimestra|pylades,,1,cooccurrence,
+aigisthos,pylades,Undirected,aigisthos|pylades,,1,cooccurrence,
+klytaimestra,choros,Directed,klytaimestra|choros|pollution,, ,pollution,"<[101.0, 600.0]>"
+klytaimestra,elektra,Directed,klytaimestra|elektra|pollution,, ,pollution,"<[201.0, 600.0]>"
+klytaimestra,oiketes,Directed,klytaimestra|oiketes|pollution,, ,pollution,"<[1.0, 600.0]>"
+klytaimestra,trophos,Directed,klytaimestra|trophos|pollution,, ,pollution,"<[1.0, 600.0]>"
+aigisthos,choros,Directed,aigisthos|choros|pollution,, ,pollution,"<[101.0, 600.0]>"
+aigisthos,elektra,Directed,aigisthos|elektra|pollution,, ,pollution,"<[201.0, 600.0]>"
+aigisthos,oiketes,Directed,aigisthos|oiketes|pollution,, ,pollution,"<[1.0, 600.0]>"
+aigisthos,trophos,Directed,aigisthos|trophos|pollution,, ,pollution,"<[1.0, 600.0]>"
+elektra,orestes,Directed,elektra|orestes|pollution,, ,pollution,"<[301.0, 600.0]>"
+orestes,pylades,Directed,orestes|pylades|pollution,, ,pollution,"<[301.0, 600.0]>"
+klytaimestra,orestes,Directed,klytaimestra|orestes|pollution,, ,pollution,"<[501.0, 600.0]>"
+aigisthos,orestes,Directed,aigisthos|orestes|pollution,, ,pollution,"<[501.0, 600.0]>"
+orestes,choros,Directed,orestes|choros|pollution,, ,pollution,"<[501.0, 600.0]>"
+orestes,elektra,Directed,orestes|elektra|pollution,, ,pollution,"<[501.0, 600.0]>"

@@ -1,0 +1,42 @@
+Source,Target,edge_type,Weight,Interval
+Augustus,Amalia,co_occurrence,5,
+Augustus,Louis,co_occurrence,4,
+Augustus,Hector,co_occurrence,3,
+Augustus,Scylla,co_occurrence,8,
+Augustus,Phebe,co_occurrence,7,
+Augustus,Diana,co_occurrence,4,
+Amalia,Louis,co_occurrence,5,
+Amalia,Scylla,co_occurrence,2,
+Amalia,Hector,co_occurrence,2,
+Louis,Scylla,co_occurrence,2,
+Hector,Scylla,co_occurrence,3,
+Phebe,Diana,co_occurrence,5,
+Phebe,Scylla,co_occurrence,6,
+Phebe,Alexander,co_occurrence,5,
+Diana,Alexander,co_occurrence,5,
+Scipio,Alexander,co_occurrence,4,
+Scipio,Phebe,co_occurrence,4,
+Ticey,Amalia,co_occurrence,2,
+Jones,Amalia,co_occurrence,3,
+Jones,Augustus,co_occurrence,2,
+Henry,Augustus,co_occurrence,3,
+Benjamin,Augustus,co_occurrence,2,
+Slaves_group,Augustus,co_occurrence,6,
+Slaves_group,Amalia,co_occurrence,3,
+Slaves_group,Scylla,co_occurrence,5,
+Conspirators_group,Augustus,co_occurrence,4,
+Conspirators_group,Louis,co_occurrence,2,
+Narrator,Augustus,co_occurrence,2,
+Narrator,Amalia,co_occurrence,2,
+Narrator,Louis,co_occurrence,1,
+Amalia,Augustus,pollution,,"<[0.0, 170.0]>"
+Hector,Augustus,pollution,,"<[0.0, 170.0]>"
+Amalia,Louis,pollution,,"<[0.0, 170.0]>"
+Hector,Amalia,pollution,,"<[0.0, 170.0]>"
+Augustus,Hector,pollution,,"<[120.0, 170.0]>"
+Augustus,Phebe,pollution,,"<[90.0, 170.0]>"
+Augustus,Slaves_group,pollution,,"<[60.0, 170.0]>"
+Scylla,Diana,pollution,,"<[10.0, 170.0]>"
+Scylla,Slaves_group,pollution,,"<[10.0, 170.0]>"
+Louis,Doctor,pollution,,"<[0.0, 30.0]>"
+Jones,Slaves_group,pollution,,"<[20.0, 140.0]>"

@@ -1,0 +1,10 @@
+Id,Label,Gender,person-group,number-of-words,eigencentrality,PollutionStatus
+oidipous,Οἰδίπους,MALE,false,4225,1,"<[1.0,6.9, majorly_polluted]>"
+hiereus,Ἱερεύς,MALE,false,318,0.349732,"<[1.0,6.9, minorly_polluted]>"
+kreon,Κρέων,MALE,false,879,0.636787,"<[1.0,2.9, not_polluted]; [3.0,6.9, minorly_polluted]>"
+choros,Χορός,MALE,true,1551,0.938037,"<[1.0,6.9, minorly_polluted]>"
+teiresias,Τειρεσίας,MALE,false,520,0.413529,"<[1.0,1.9, not_polluted]; [2.0,2.9, minorly_polluted]; [3.0,6.9, not_polluted]>"
+iokaste,Ἰοκάστη,,false,793,0.694208,"<[1.0,4.9, minorly_polluted]; [5.0,6.0, majorly_polluted]>"
+angelos,Ἄγγελος,MALE,false,379,0.680017,"<[1.0,3.9, not_polluted]; [4.0,6.9, minorly_polluted]>"
+therapon,Θεράπων,MALE,false,189,0.558076,"<[1.0,5.9, not_polluted]; [6.0,6.9, minorly_polluted]>"
+exangelos,Ἐξάγγελος,MALE,false,432,0.413529,"<[1.0,5.9, not_polluted]; [6.0,6.9, minorly_polluted]>"

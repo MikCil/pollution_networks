@@ -1,0 +1,11 @@
+Id,Label,Gender,person-group,number-of-words,eigencentrality,PollutionStatus
+antigone,Ἀντιγόνη,FEMALE,false,1211,0.691486,"<[0,16.6,minorly_polluted];[16.7,33.3,minorly_polluted];[33.4,100,majorly_polluted]>"
+ismene,Ἰσμήνη,FEMALE,false,378,0.691486,"<[0,50,minorly_polluted];[50.1,100,minorly_polluted]>"
+choros,Χορός,UNKNOWN,true,1493,1,"<[0,66.6,not_polluted];[66.7,100,minorly_polluted]>"
+kreon,Κρέων,MALE,false,2088,0.902457,"<[0,16.6,not_polluted];[16.7,33.3,minorly_polluted];[33.4,100,majorly_polluted]>"
+phylax,Φύλαξ,UNKNOWN,false,702,0.691486,"<[0,16.6,not_polluted];[16.7,100,minorly_polluted]>"
+haimon,Αἵμων,MALE,false,427,0.401987,"<[0,50,not_polluted];[50.1,83.3,minorly_polluted];[83.4,100,majorly_polluted]>"
+teiresias,Τειρεσίας,MALE,false,447,0.401987,"<[0,100,not_polluted]>"
+angelos,Ἄγγελος,MALE,false,468,0.272027,"<[0,83.3,not_polluted];[83.4,100,minorly_polluted]>"
+eurydike,Εὐρυδίκη,FEMALE,false,50,0.272027,"<[0,83.3,not_polluted];[83.4,100,majorly_polluted]>"
+exangelos,Ἐξάγγελος,MALE,false,83,0.401987,"<[0,83.3,not_polluted];[83.4,100,minorly_polluted]>"

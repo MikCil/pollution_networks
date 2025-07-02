@@ -1,0 +1,8 @@
+Id,Label,Gender,person-group,number-of-words,eigencentrality,PollutionStatus
+phylax,Φύλαξ,MALE,false,210,0.27076,"<[1.0,60.0, not_polluted]>"
+choros,Χορός,MALE,true,3617,1,"<[1.0,40.0, not_polluted]; [41.0,60.0, minorly_polluted]>"
+klytaimestra,Κλυταιμήστρα,FEMALE,false,1786,0.941831,"<[1.0,40.0, minorly_polluted]; [41.0,60.0, majorly_polluted]>"
+keryx,Κῆρυξ,MALE,false,743,0.524836,"<[1.0,60.0, not_polluted]>"
+agamemnon,Ἀγαμέμνων,MALE,false,475,0.718234,"<[1.0,40.0, not_polluted]; [41.0,60.0, majorly_polluted]>"
+kasandra,Κασάνδρα,FEMALE,false,945,0.718234,"<[1.0,50.0, not_polluted]; [51.0,55.0, minorly_polluted]; [56.0,60.0, majorly_polluted]>"
+aigisthos,Αἴγισθος,MALE,false,379,0.524836,"<[1.0,50.0, not_polluted]; [51.0,60.0, majorly_polluted]>"

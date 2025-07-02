@@ -1,0 +1,11 @@
+Id,Label,PollutionStatus
+Antigone,Antigone,"<[8.0,25.0,not_polluted]; [25.0,51.0,minorly_polluted]; [51.0,80.0,majorly_polluted]>"
+Creon,Creon,"<[8.0,18.0,not_polluted]; [18.0,27.0,minorly_polluted]; [27.0,80.0,majorly_polluted]>"
+Ismene,Ismene,"<[8.0,80.0,not_polluted]>"
+Guard,Guard,"<[8.0,18.0,not_polluted]; [18.0,80.0,minorly_polluted]>"
+Haemon,Haemon,"<[8.0,42.0,not_polluted]; [42.0,70.0,minorly_polluted]; [70.0,80.0,majorly_polluted]>"
+Tiresias,Tiresias,"<[8.0,80.0,not_polluted]>"
+Messenger,Messenger,"<[8.0,80.0,not_polluted]>"
+Eurydice,Eurydice,"<[8.0,73.0,not_polluted]; [73.0,80.0,majorly_polluted]>"
+Chorus,Chorus,"<[8.0,61.0,not_polluted]; [61.0,80.0,minorly_polluted]>"
+Polyneices,Polyneices,"<[8.0,68.0,majorly_polluted]; [68.0,80.0,not_polluted]>"

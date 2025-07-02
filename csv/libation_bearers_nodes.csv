@@ -1,0 +1,9 @@
+Id,Label,Gender,person-group,number-of-words,eigencentrality,PollutionStatus
+orestes,Ὀρέστης,MALE,false,1845,1,"<[1.0, 300.0, not_polluted]; [301.0, 500.0, minorly_polluted]; [501.0, 600.0, majorly_polluted]>"
+choros,Χορός,FEMALE,true,1970,1,"<[1.0, 100.0, not_polluted]; [101.0, 600.0, minorly_polluted]>"
+elektra,Ἠλέκτρα,FEMALE,false,958,0.356053,"<[1.0, 200.0, not_polluted]; [201.0, 400.0, minorly_polluted]; [401.0, 600.0, majorly_polluted]>"
+oiketes,Οἰκέτης,MALE,false,70,0.945751,"<[1.0, 600.0, minorly_polluted]>"
+klytaimestra,Κλυταιμήστρα,FEMALE,false,282,0.945751,"<[1.0, 600.0, majorly_polluted]>"
+trophos,Τροφός,FEMALE,false,233,0.691883,"<[1.0, 600.0, minorly_polluted]>"
+aigisthos,Αἴγισθος,MALE,false,82,0.841205,"<[1.0, 600.0, majorly_polluted]>"
+pylades,Πυλάδης,MALE,false,17,0.841205,"<[1.0, 300.0, not_polluted]; [301.0, 500.0, minorly_polluted]; [501.0, 600.0, majorly_polluted]>"

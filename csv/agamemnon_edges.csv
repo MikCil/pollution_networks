@@ -1,0 +1,17 @@
+Source,Target,Type,Id,Label,Weight,EdgeKind,Interval
+phylax,choros,Undirected,phylax|choros,,1,co_occurrence,
+choros,klytaimestra,Undirected,choros|klytaimestra,,8,co_occurrence,
+choros,keryx,Undirected,choros|keryx,,1,co_occurrence,
+choros,agamemnon,Undirected,choros|agamemnon,,2,co_occurrence,
+choros,kasandra,Undirected,choros|kasandra,,2,co_occurrence,
+choros,aigisthos,Undirected,choros|aigisthos,,1,co_occurrence,
+klytaimestra,keryx,Undirected,klytaimestra|keryx,,1,co_occurrence,
+klytaimestra,agamemnon,Undirected,klytaimestra|agamemnon,,2,co_occurrence,
+klytaimestra,kasandra,Undirected,klytaimestra|kasandra,,1,co_occurrence,
+klytaimestra,aigisthos,Undirected,klytaimestra|aigisthos,,1,co_occurrence,
+agamemnon,kasandra,Undirected,agamemnon|kasandra,,1,co_occurrence,
+klytaimestra,agamemnon,Undirected,klytaimestra|agamemnon|pollution,,,pollution,"<[41.0,60.0]>"
+agamemnon,choros,Undirected,agamemnon|choros|pollution,,,pollution,"<[41.0,60.0]>"
+agamemnon,kasandra,Undirected,agamemnon|kasandra|pollution,,,pollution,"<[41.0,55.0]>"
+aigisthos,klytaimestra,Undirected,aigisthos|klytaimestra|pollution,,,pollution,"<[51.0,60.0]>"
+aigisthos,choros,Undirected,aigisthos|choros|pollution,,,pollution,"<[51.0,60.0]>"
